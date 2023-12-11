@@ -51,7 +51,7 @@ double training_output[TRAINING_NUMBER][OUTPUT_NUMBER] = {
         {0, 0, 0, 0, 0, 0, 0, 1, 0, 0},
         {0, 0, 0, 0, 0, 0, 0, 0, 1, 0},
         {0, 0, 0, 0, 0, 0, 0, 0, 0, 1}
-    };
+};
 
 double test_input[TEST_NUMBER][INPUT_NUMBER];             
 
